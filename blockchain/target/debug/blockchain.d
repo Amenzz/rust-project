@@ -1,0 +1,1 @@
+C:\Users\Amenzz\Documents\personal\ Hustle\rust\blockchain\target\debug\blockchain.exe: C:\Users\Amenzz\Documents\personal\ Hustle\rust\blockchain\src\lib.rs C:\Users\Amenzz\Documents\personal\ Hustle\rust\blockchain\src\main.rs
