@@ -1,13 +1,11 @@
 use rand::Rng;
 use std::io::{stdin, stdout, Write};
 
-
 fn handle_input() -> u32 {
     let mut s = String::new();
     print!("Enter the number of sides on the die: ");
-    stdout().flush().unwrap(); 
+    stdout().flush().unwrap();
 
-   
     stdin().read_line(&mut s).unwrap();
 
     match s.trim().parse::<u32>() {
@@ -28,7 +26,9 @@ fn main() {
     let user_input = handle_input();
     println!("You entered: {}", user_input);
 
-   
-    let dice_roll = roll_dice( user_input);
-    println!("You rolled a {}-sided die and got: {}", user_input, dice_roll);
+    let dice_roll = roll_dice(user_input);
+    println!(
+        "You rolled a {}-sided die and got: {}",
+        user_input, dice_roll
+    );
 }
