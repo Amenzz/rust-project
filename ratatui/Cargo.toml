@@ -1,0 +1,8 @@
+[package]
+name = "my_ratatui_app"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+ratatui = "0.20"
+crossterm = "0.26"
