@@ -1,4 +1,3 @@
-
 fn unit_converter() -> f64 {
     let mut input = String::new();
     println!(
@@ -12,7 +11,6 @@ fn unit_converter() -> f64 {
         .read_line(&mut input)
         .expect("Error reading input");
     let get_input = input.trim().chars().next(); // Get the first character
-
     let mut calculate_unit = String::new();
     println!("Enter a value to convert to the unit you chose above:");
     std::io::stdin()
