@@ -1,0 +1,10 @@
+C:\Users\Amenzz\Documents\personal Hustle\rust\stopwatch\target\debug\deps\librustc_serialize-72db216ca5d70239.rmeta: C:\Users\Amenzz\.cargo\registry\src\index.crates.io-6f17d22bba15001f\rustc-serialize-0.3.25\src\lib.rs C:\Users\Amenzz\.cargo\registry\src\index.crates.io-6f17d22bba15001f\rustc-serialize-0.3.25\src\serialize.rs C:\Users\Amenzz\.cargo\registry\src\index.crates.io-6f17d22bba15001f\rustc-serialize-0.3.25\src\collection_impls.rs C:\Users\Amenzz\.cargo\registry\src\index.crates.io-6f17d22bba15001f\rustc-serialize-0.3.25\src\base64.rs C:\Users\Amenzz\.cargo\registry\src\index.crates.io-6f17d22bba15001f\rustc-serialize-0.3.25\src\hex.rs C:\Users\Amenzz\.cargo\registry\src\index.crates.io-6f17d22bba15001f\rustc-serialize-0.3.25\src\json.rs
+
+C:\Users\Amenzz\Documents\personal Hustle\rust\stopwatch\target\debug\deps\rustc_serialize-72db216ca5d70239.d: C:\Users\Amenzz\.cargo\registry\src\index.crates.io-6f17d22bba15001f\rustc-serialize-0.3.25\src\lib.rs C:\Users\Amenzz\.cargo\registry\src\index.crates.io-6f17d22bba15001f\rustc-serialize-0.3.25\src\serialize.rs C:\Users\Amenzz\.cargo\registry\src\index.crates.io-6f17d22bba15001f\rustc-serialize-0.3.25\src\collection_impls.rs C:\Users\Amenzz\.cargo\registry\src\index.crates.io-6f17d22bba15001f\rustc-serialize-0.3.25\src\base64.rs C:\Users\Amenzz\.cargo\registry\src\index.crates.io-6f17d22bba15001f\rustc-serialize-0.3.25\src\hex.rs C:\Users\Amenzz\.cargo\registry\src\index.crates.io-6f17d22bba15001f\rustc-serialize-0.3.25\src\json.rs
+
+C:\Users\Amenzz\.cargo\registry\src\index.crates.io-6f17d22bba15001f\rustc-serialize-0.3.25\src\lib.rs:
+C:\Users\Amenzz\.cargo\registry\src\index.crates.io-6f17d22bba15001f\rustc-serialize-0.3.25\src\serialize.rs:
+C:\Users\Amenzz\.cargo\registry\src\index.crates.io-6f17d22bba15001f\rustc-serialize-0.3.25\src\collection_impls.rs:
+C:\Users\Amenzz\.cargo\registry\src\index.crates.io-6f17d22bba15001f\rustc-serialize-0.3.25\src\base64.rs:
+C:\Users\Amenzz\.cargo\registry\src\index.crates.io-6f17d22bba15001f\rustc-serialize-0.3.25\src\hex.rs:
+C:\Users\Amenzz\.cargo\registry\src\index.crates.io-6f17d22bba15001f\rustc-serialize-0.3.25\src\json.rs:
