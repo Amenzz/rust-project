@@ -1,0 +1,10 @@
+C:\Users\Amenzz\Documents\rust\rust-project\stopwatch\target\debug\deps\libnum_bigint-a1eeecc815948147.rmeta: C:\Users\Amenzz\.cargo\registry\src\index.crates.io-6f17d22bba15001f\num-bigint-0.1.44\src\lib.rs C:\Users\Amenzz\.cargo\registry\src\index.crates.io-6f17d22bba15001f\num-bigint-0.1.44\src\macros.rs C:\Users\Amenzz\.cargo\registry\src\index.crates.io-6f17d22bba15001f\num-bigint-0.1.44\src\biguint.rs C:\Users\Amenzz\.cargo\registry\src\index.crates.io-6f17d22bba15001f\num-bigint-0.1.44\src\algorithms.rs C:\Users\Amenzz\.cargo\registry\src\index.crates.io-6f17d22bba15001f\num-bigint-0.1.44\src\monty.rs C:\Users\Amenzz\.cargo\registry\src\index.crates.io-6f17d22bba15001f\num-bigint-0.1.44\src\bigint.rs
+
+C:\Users\Amenzz\Documents\rust\rust-project\stopwatch\target\debug\deps\num_bigint-a1eeecc815948147.d: C:\Users\Amenzz\.cargo\registry\src\index.crates.io-6f17d22bba15001f\num-bigint-0.1.44\src\lib.rs C:\Users\Amenzz\.cargo\registry\src\index.crates.io-6f17d22bba15001f\num-bigint-0.1.44\src\macros.rs C:\Users\Amenzz\.cargo\registry\src\index.crates.io-6f17d22bba15001f\num-bigint-0.1.44\src\biguint.rs C:\Users\Amenzz\.cargo\registry\src\index.crates.io-6f17d22bba15001f\num-bigint-0.1.44\src\algorithms.rs C:\Users\Amenzz\.cargo\registry\src\index.crates.io-6f17d22bba15001f\num-bigint-0.1.44\src\monty.rs C:\Users\Amenzz\.cargo\registry\src\index.crates.io-6f17d22bba15001f\num-bigint-0.1.44\src\bigint.rs
+
+C:\Users\Amenzz\.cargo\registry\src\index.crates.io-6f17d22bba15001f\num-bigint-0.1.44\src\lib.rs:
+C:\Users\Amenzz\.cargo\registry\src\index.crates.io-6f17d22bba15001f\num-bigint-0.1.44\src\macros.rs:
+C:\Users\Amenzz\.cargo\registry\src\index.crates.io-6f17d22bba15001f\num-bigint-0.1.44\src\biguint.rs:
+C:\Users\Amenzz\.cargo\registry\src\index.crates.io-6f17d22bba15001f\num-bigint-0.1.44\src\algorithms.rs:
+C:\Users\Amenzz\.cargo\registry\src\index.crates.io-6f17d22bba15001f\num-bigint-0.1.44\src\monty.rs:
+C:\Users\Amenzz\.cargo\registry\src\index.crates.io-6f17d22bba15001f\num-bigint-0.1.44\src\bigint.rs:
