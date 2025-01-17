@@ -2,7 +2,7 @@ use std::io;
 use rand::Rng;
 
 fn main() {
-    println!("Welcome to Rock, Paper, Scissors!");
+    println!("Welcome to Rock, Paper, Scissors,game!");
     println!("Type 'rock', 'paper', or 'scissors' to play. Type 'quit' to exit.");
 
     loop {
